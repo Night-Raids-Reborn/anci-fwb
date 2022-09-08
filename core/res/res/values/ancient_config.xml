@@ -229,4 +229,7 @@
 
     <!-- Custom proximity sensor to be used for pocket detection and doze -->
     <string name="config_customProximitySensor"></string>
+
+     <!-- Whether to spoof device as Pixel XL for Google Photos -->
+    <bool name="config_spoofGooglePhotos">true</bool>
 </resources>
